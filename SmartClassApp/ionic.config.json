@@ -1,0 +1,7 @@
+{
+  "name": "SmartClassApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
